@@ -1,1 +1,3 @@
 Este es un archivo de prueba que se agregará a nuestro repositorio Hello-World-G2
+
+Modificación del archivo de texto para ver los cambios en GitKraken.
